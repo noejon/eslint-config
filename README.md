@@ -1,2 +1,4 @@
 # eslint-config
-Monorepo for my eslint configs
+
+Some eslint rules for me to reuse.
+Those rules are just basic rules for typescript.
